@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SUBMIT CUSTOMER_MEDIA_CODE="Ingrooves_1_192641246883">
+   <ALBUM>
+      <TRACK_COUNT>14</TRACK_COUNT>
+      <TITLE_OFFICIAL>
+         <DISPLAY>The Immortal Steppa</DISPLAY>
+      </TITLE_OFFICIAL>
+      <ARTIST>
+         <NAME_OFFICIAL>
+            <DISPLAY>Blvk H3ro</DISPLAY>
+         </NAME_OFFICIAL>
+      </ARTIST>
+      <CREDIT>
+         <NAME_OFFICIAL>
+            <DISPLAY>Blvk H3ro</DISPLAY>
+         </NAME_OFFICIAL>
+         <ROLE>Main Artist</ROLE>
+      </CREDIT>
+      <YEAR>2019-02-15</YEAR>
+      <LABEL>Blvk H3ro Media Inc.</LABEL>
+      <CONTENT>
+         <TYPE>UPC</TYPE>
+         <MIME_TYPE>text/plain</MIME_TYPE>
+         <ASSET>
+            <DATA>192641246883</DATA>
+         </ASSET>
+      </CONTENT>
+      <CONTENT>
+         <TYPE>CATALOG_NUMBER</TYPE>
+         <MIME_TYPE>text/plain</MIME_TYPE>
+         <ASSET>
+            <DATA>DSBH-019-001</DATA>
+         </ASSET>
+      </CONTENT>
+      <CONTENT>
+         <TYPE>COVER_ART</TYPE>
+         <MIME_TYPE>image/jpeg</MIME_TYPE>
+         <ASSET>
+            <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883.jpg</URL>
+         </ASSET>
+      </CONTENT>
+      <GENRE>Reggae</GENRE>
+      <TOTAL_IN_SET>1</TOTAL_IN_SET>
+      <DISC_IN_SET>1</DISC_IN_SET>
+      <TRACK ORD="1">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Feet Don't Fail</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Augustus Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Anthony Hibbert</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Johnoye Bucknor</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">237</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_01_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>TCACX1740747</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="2">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Movin' On</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Augustus Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Denise Hamilton</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">173</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_02_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>USA2P1904361</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="3">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Skydive</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro feat. Leno Banton</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Bailey Hervin, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Nicholas Yared, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Leno Banton</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Featured Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Donell Spaulding</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Yared Lee</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">154</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_03_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>TCACN1653707</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="4">
+         <TITLE_OFFICIAL>
+            <DISPLAY>H3rb</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Dennis Hamilton</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">166</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_04_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>TCACN1653706</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="5">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Watch Yuh Step</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro feat. Iotosh</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Iotosh</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Featured Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Iotosh Poyser</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Janai Senior</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">186</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_05_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>USA2P1904362</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="6">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Superstition</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Black Bull Music, Inc., ASCAP</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Jobete Music Co, Inc., ASCAP</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Stevie Wonder</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Stevie Wonder</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <GENRE>Soul/R&amp;B</GENRE>
+         <DURATION UNITS="seconds">260</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_06_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>USA2P1904363</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="7">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Funk Out</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro feat. Royal Blu</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Jean Andre Lowell Lawrence, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Royal Blu</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Featured Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Jean Andre Lowell Lawrence</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Soul/R&amp;B</GENRE>
+         <DURATION UNITS="seconds">257</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_07_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>USA2P1904364</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="8">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Can I (Show Ya)</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Kris Karz, ASCAP</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Kris Karz</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">208</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_08_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>USA2P1904365</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="9">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Blvk Peppa</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>The Grei Show, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Gamel Reid</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">195</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_09_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>USA2P1904366</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="10">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Get High</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Dennis Hamilton</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">203</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_10_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>USA2P1904367</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="11">
+         <TITLE_OFFICIAL>
+            <DISPLAY>M.A.R.Y.</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Dennis Hamilton</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Reggae</GENRE>
+         <DURATION UNITS="seconds">185</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_11_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>TCACN1653730</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="13">
+         <TITLE_OFFICIAL>
+            <DISPLAY>Mama</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Bastian Ka</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Folk</GENRE>
+         <DURATION UNITS="seconds">274</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_13_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>TCADN1822899</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+      <TRACK ORD="14">
+         <TITLE_OFFICIAL>
+            <DISPLAY>We On</DISPLAY>
+         </TITLE_OFFICIAL>
+         <ARTIST>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+         </ARTIST>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Tunecore Digital Music, BMI</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Publisher</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Blvk H3ro</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Main Artist</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>Hervin Bailey</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Writer</ROLE>
+         </CREDIT>
+         <CREDIT>
+            <NAME_OFFICIAL>
+               <DISPLAY>The Grei Show</DISPLAY>
+            </NAME_OFFICIAL>
+            <ROLE>Composer</ROLE>
+         </CREDIT>
+         <GENRE>Dance &amp; House</GENRE>
+         <DURATION UNITS="seconds">187</DURATION>
+         <COPYRIGHT>
+            <YEAR>2019</YEAR>
+         </COPYRIGHT>
+         <CONTENT>
+            <TYPE>SOURCE_AUDIO</TYPE>
+            <MIME_TYPE>audio/mp3</MIME_TYPE>
+            <ASSET>
+               <URL>../tmp/INGROOVES/INgrooves.17695.01-08-19/albums/192641246883/192641246883_01_14_027.mp3</URL>
+            </ASSET>
+         </CONTENT>
+         <CONTENT>
+            <TYPE>ISRC</TYPE>
+            <MIME_TYPE>text/plain</MIME_TYPE>
+            <ASSET>
+               <DATA>USA2P1904369</DATA>
+            </ASSET>
+         </CONTENT>
+      </TRACK>
+   </ALBUM>
+</SUBMIT>

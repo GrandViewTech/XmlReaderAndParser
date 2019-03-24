@@ -1,6 +1,7 @@
 #https://realpython.com/python-logging/
 import logging;
 
+
 logging.basicConfig(
         level=logging.INFO,datefmt='%d-%b-%y %H:%M:%S', filename='logs/scripts.log', filemode='w',
                         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -13,7 +14,7 @@ def main():
 
 
 def read_file():
-    filepath='input/demo.xml';
+    filepath='input1/submission.xml';
     contents = [line.strip() for line in open(filepath, 'r').readlines()]
     data = "";
     for content in contents:
